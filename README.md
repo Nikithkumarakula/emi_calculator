@@ -65,6 +65,9 @@ This app can be deployed on GitHub Pages or other static hosting platforms.
 
 Register at [ExchangeRate API](https://www.exchangerate-api.com/) to obtain a free API key. Replace the placeholder in the code with your key to enable live currency conversion.
 
+## LIVE LINK:
+https://nikithkumarakula.github.io/emi_calculator/
+
 ## License
 
 This project is licensed under the MIT License.
