@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_KEY = 'c14b2983b02f62b57dcea416';
+const API_KEY = 'YOUR_API_KEY';
 const BASE_URL = `https://v6.exchangerate-api.com/v6/${API_KEY}/latest/`;
 
 const useExchangeRates = (baseCurrency = 'USD', page = 1, perPage = 20) => {
